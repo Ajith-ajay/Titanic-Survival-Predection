@@ -1,4 +1,4 @@
-# Titanic Survival Prediction
+i# Titanic Survival Prediction
 
 ## Table of Contents
 - [Overview](#overview)
@@ -98,3 +98,4 @@ This project is open-source and available under the MIT License.
 ## Usage
 
 this is a basic student level project to understand the concept of *Machine Learning*. Titanic Survival Prediction is a great example of applying machine learning to a real-world problem. It demonstrates how machine learning can be used to make predictions and gain insights from data.
+
