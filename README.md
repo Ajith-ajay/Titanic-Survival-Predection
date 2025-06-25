@@ -41,12 +41,6 @@ git clone https://github.com/Ajith-ajay/Titanic-Survival-Predection.git
 cd Titanic-Survival-Predection
 ```
 
-## Required Modules
-
-    1.Python
-    2.Jupyter
-    3.sk-learn
-
 **Create and Activate a Virtual Environment**
 
 ```bash
