@@ -1,4 +1,4 @@
-i# Titanic Survival Prediction
+# Titanic Survival Prediction
 
 ## Table of Contents
 - [Overview](#overview)
